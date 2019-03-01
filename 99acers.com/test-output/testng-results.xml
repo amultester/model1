@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19979" started-at="2019-02-05T12:27:22Z" finished-at="2019-02-05T12:27:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19979" started-at="2019-02-05T12:27:22Z" finished-at="2019-02-05T12:27:42Z">
+      <class name="Realestate.btuuon">
+        <test-method status="PASS" signature="browser_handling()[pri:1, instance:Realestate.btuuon@687080dc]" name="browser_handling" duration-ms="16531" started-at="2019-02-05T12:27:22Z" description="browser intialization " finished-at="2019-02-05T12:27:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_handling -->
+        <test-method status="PASS" signature="Button_click()[pri:2, instance:Realestate.btuuon@687080dc]" name="Button_click" duration-ms="3430" started-at="2019-02-05T12:27:38Z" description="browser intialization " finished-at="2019-02-05T12:27:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Button_click -->
+      </class> <!-- Realestate.btuuon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
