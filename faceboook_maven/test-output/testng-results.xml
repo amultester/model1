@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16109" started-at="2019-02-28T06:31:40Z" finished-at="2019-02-28T06:31:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16109" started-at="2019-02-28T06:31:40Z" finished-at="2019-02-28T06:31:56Z">
+      <class name="com.facebook_testcase.login_testcase">
+        <test-method status="PASS" signature="excel_config_call()[pri:0, instance:com.facebook_testcase.login_testcase@59f99ea]" name="excel_config_call" is-config="true" duration-ms="511" started-at="2019-02-28T06:31:39Z" finished-at="2019-02-28T06:31:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excel_config_call -->
+        <test-method status="PASS" signature="browserstart()[pri:0, instance:com.facebook_testcase.login_testcase@59f99ea]" name="browserstart" is-config="true" duration-ms="10538" started-at="2019-02-28T06:31:40Z" finished-at="2019-02-28T06:31:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserstart -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.facebook_testcase.login_testcase@59f99ea]" name="login" duration-ms="4548" started-at="2019-02-28T06:31:50Z" finished-at="2019-02-28T06:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="browserquit()[pri:0, instance:com.facebook_testcase.login_testcase@59f99ea]" name="browserquit" is-config="true" duration-ms="1008" started-at="2019-02-28T06:31:55Z" finished-at="2019-02-28T06:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserquit -->
+      </class> <!-- com.facebook_testcase.login_testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
