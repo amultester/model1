@@ -6,6 +6,7 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.lift.find.PageTitleFinder;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.Test;
 
@@ -28,5 +29,6 @@ public class cyranoalert_handle {
 	Alert a1= driver.switchTo().alert();
 	a1.accept();
 	driver.quit();
+	
 	}
 }
